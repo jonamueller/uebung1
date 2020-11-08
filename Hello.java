@@ -6,7 +6,7 @@ public class Hello {
 		int x= 2018;
 		int y= 2020; 
 		int z= y-x;
-		System.out.print(z);
+		System.out.print("Lost");
 		// TODO Auto-generated method stub
 
 	}
